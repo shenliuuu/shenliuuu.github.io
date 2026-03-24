@@ -18,6 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 重庆大学弘深青年教师，博士后。在重庆大学王时龙教授领导下开展面向工业母机的智能监测、诊断与预防性维护工作。
+我的研究兴趣包括复杂装备状态监测、故障诊断与预防性维护。我在国际高水平期刊上发表了<a ref='https://scholar.google.com/citations?user=qKOUAFYAAAAJ&hl=zh-CN'> 10余篇论文，Google scholar
+
+
+
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
